@@ -16,6 +16,5 @@ h1 {
 
 p {
   animation: slideIn 1s ease-out 0.5s;
-  color: indigo;
-  font-size: 20px;
+  font-size: 20px;/*taille du texte du paragraphe changer*/
 }
